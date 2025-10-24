@@ -1,0 +1,637 @@
+﻿Bing (Afar),http://api.bing.com/osjson.aspx?language=aa&query=
+Google,http://suggestqueries.google.com/complete/search?callback=?&client=chrome&hl=&q=
+Google (Acoli),https://suggestqueries.google.com/complete/search?client=firefox&hl=ach&q=
+Google (Afrikaans),https://suggestqueries.google.com/complete/search?client=firefox&hl=af&q=
+Google (Akan),https://suggestqueries.google.com/complete/search?client=firefox&hl=ak&q=
+Google (አማርኛ),https://suggestqueries.google.com/complete/search?client=firefox&hl=am&q=
+Google (العربية),https://suggestqueries.google.com/complete/search?client=firefox&hl=ar&q=
+Google (azərbaycan),https://suggestqueries.google.com/complete/search?client=firefox&hl=az&q=
+Google (Balinese),https://suggestqueries.google.com/complete/search?client=firefox&hl=ban&q=
+Google (беларуская),https://suggestqueries.google.com/complete/search?client=firefox&hl=be&q=
+Google (Ichibemba),https://suggestqueries.google.com/complete/search?client=firefox&hl=bem&q=
+Google (български),https://suggestqueries.google.com/complete/search?client=firefox&hl=bg&q=
+Google (বাংলা),https://suggestqueries.google.com/complete/search?client=firefox&hl=bn&q=
+Google (brezhoneg),https://suggestqueries.google.com/complete/search?client=firefox&hl=br&q=
+Google (bosanski),https://suggestqueries.google.com/complete/search?client=firefox&hl=bs&q=
+Google (català),https://suggestqueries.google.com/complete/search?client=firefox&hl=ca&q=
+Google (Cebuano),https://suggestqueries.google.com/complete/search?client=firefox&hl=ceb&q=
+Google (ᏣᎳᎩ),https://suggestqueries.google.com/complete/search?client=firefox&hl=chr&q=
+Google (کوردیی ناوەندی),https://suggestqueries.google.com/complete/search?client=firefox&hl=ckb&q=
+Google (Corsican),https://suggestqueries.google.com/complete/search?client=firefox&hl=co&q=
+Google (Seychellois Creole),https://suggestqueries.google.com/complete/search?client=firefox&hl=crs&q=
+Google (čeština),https://suggestqueries.google.com/complete/search?client=firefox&hl=cs&q=
+Google (Cymraeg),https://suggestqueries.google.com/complete/search?client=firefox&hl=cy&q=
+Google (dansk),https://suggestqueries.google.com/complete/search?client=firefox&hl=da&q=
+Google (Deutsch),https://suggestqueries.google.com/complete/search?client=firefox&hl=de&q=
+Google (Eʋegbe),https://suggestqueries.google.com/complete/search?client=firefox&hl=ee&q=
+Google (Ελληνικά),https://suggestqueries.google.com/complete/search?client=firefox&hl=el&q=
+Google (English),https://suggestqueries.google.com/complete/search?client=firefox&hl=en&q=
+Google (esperanto),https://suggestqueries.google.com/complete/search?client=firefox&hl=eo&q=
+Google (español),https://suggestqueries.google.com/complete/search?client=firefox&hl=es&q=
+Google (español (Latinoamérica)),https://suggestqueries.google.com/complete/search?client=firefox&hl=es-419&q=
+Google (eesti),https://suggestqueries.google.com/complete/search?client=firefox&hl=et&q=
+Google (euskara),https://suggestqueries.google.com/complete/search?client=firefox&hl=eu&q=
+Google (فارسی),https://suggestqueries.google.com/complete/search?client=firefox&hl=fa&q=
+Google (suomi),https://suggestqueries.google.com/complete/search?client=firefox&hl=fi&q=
+Google (føroyskt),https://suggestqueries.google.com/complete/search?client=firefox&hl=fo&q=
+Google (français),https://suggestqueries.google.com/complete/search?client=firefox&hl=fr&q=
+Google (West-Frysk),https://suggestqueries.google.com/complete/search?client=firefox&hl=fy&q=
+Google (Gaeilge),https://suggestqueries.google.com/complete/search?client=firefox&hl=ga&q=
+Google (Ga),https://suggestqueries.google.com/complete/search?client=firefox&hl=gaa&q=
+Google (Gàidhlig),https://suggestqueries.google.com/complete/search?client=firefox&hl=gd&q=
+Google (galego),https://suggestqueries.google.com/complete/search?client=firefox&hl=gl&q=
+Google (Guarani),https://suggestqueries.google.com/complete/search?client=firefox&hl=gn&q=
+Google (ગુજરાતી),https://suggestqueries.google.com/complete/search?client=firefox&hl=gu&q=
+Google (Hausa),https://suggestqueries.google.com/complete/search?client=firefox&hl=ha&q=
+Google (ʻŌlelo Hawaiʻi),https://suggestqueries.google.com/complete/search?client=firefox&hl=haw&q=
+Google (हिन्दी),https://suggestqueries.google.com/complete/search?client=firefox&hl=hi&q=
+Google (hrvatski),https://suggestqueries.google.com/complete/search?client=firefox&hl=hr&q=
+Google (Haitian Creole),https://suggestqueries.google.com/complete/search?client=firefox&hl=ht&q=
+Google (magyar),https://suggestqueries.google.com/complete/search?client=firefox&hl=hu&q=
+Google (հայերեն),https://suggestqueries.google.com/complete/search?client=firefox&hl=hy&q=
+Google (Interlingua),https://suggestqueries.google.com/complete/search?client=firefox&hl=ia&q=
+Google (Indonesia),https://suggestqueries.google.com/complete/search?client=firefox&hl=id&q=
+Google (Igbo),https://suggestqueries.google.com/complete/search?client=firefox&hl=ig&q=
+Google (íslenska),https://suggestqueries.google.com/complete/search?client=firefox&hl=is&q=
+Google (italiano),https://suggestqueries.google.com/complete/search?client=firefox&hl=it&q=
+Google (עברית),https://suggestqueries.google.com/complete/search?client=firefox&hl=iw&q=
+Google (日本語),https://suggestqueries.google.com/complete/search?client=firefox&hl=ja&q=
+Google (Javanese),https://suggestqueries.google.com/complete/search?client=firefox&hl=jw&q=
+Google (ქართული),https://suggestqueries.google.com/complete/search?client=firefox&hl=ka&q=
+Google (Kongo),https://suggestqueries.google.com/complete/search?client=firefox&hl=kg&q=
+Google (қазақ тілі),https://suggestqueries.google.com/complete/search?client=firefox&hl=kk&q=
+Google (ខ្មែរ),https://suggestqueries.google.com/complete/search?client=firefox&hl=km&q=
+Google (ಕನ್ನಡ),https://suggestqueries.google.com/complete/search?client=firefox&hl=kn&q=
+Google (한국어),https://suggestqueries.google.com/complete/search?client=firefox&hl=ko&q=
+Google (Krio (Sierra Leone)),https://suggestqueries.google.com/complete/search?client=firefox&hl=kri&q=
+Google (кыргызча),https://suggestqueries.google.com/complete/search?client=firefox&hl=ky&q=
+Google (Latin),https://suggestqueries.google.com/complete/search?client=firefox&hl=la&q=
+Google (Luganda),https://suggestqueries.google.com/complete/search?client=firefox&hl=lg&q=
+Google (lingála),https://suggestqueries.google.com/complete/search?client=firefox&hl=ln&q=
+Google (ລາວ),https://suggestqueries.google.com/complete/search?client=firefox&hl=lo&q=
+Google (Lozi),https://suggestqueries.google.com/complete/search?client=firefox&hl=loz&q=
+Google (lietuvių),https://suggestqueries.google.com/complete/search?client=firefox&hl=lt&q=
+Google (Luba-Lulua),https://suggestqueries.google.com/complete/search?client=firefox&hl=lua&q=
+Google (latviešu),https://suggestqueries.google.com/complete/search?client=firefox&hl=lv&q=
+Google (kreol morisien),https://suggestqueries.google.com/complete/search?client=firefox&hl=mfe&q=
+Google (Malagasy),https://suggestqueries.google.com/complete/search?client=firefox&hl=mg&q=
+Google (Maori),https://suggestqueries.google.com/complete/search?client=firefox&hl=mi&q=
+Google (македонски),https://suggestqueries.google.com/complete/search?client=firefox&hl=mk&q=
+Google (മലയാളം),https://suggestqueries.google.com/complete/search?client=firefox&hl=ml&q=
+Google (монгол),https://suggestqueries.google.com/complete/search?client=firefox&hl=mn&q=
+Google (मराठी),https://suggestqueries.google.com/complete/search?client=firefox&hl=mr&q=
+Google (Bahasa Melayu),https://suggestqueries.google.com/complete/search?client=firefox&hl=ms&q=
+Google (Malti),https://suggestqueries.google.com/complete/search?client=firefox&hl=mt&q=
+Google (မြန်မာ),https://suggestqueries.google.com/complete/search?client=firefox&hl=my&q=
+Google (नेपाली),https://suggestqueries.google.com/complete/search?client=firefox&hl=ne&q=
+Google (Nederlands),https://suggestqueries.google.com/complete/search?client=firefox&hl=nl&q=
+Google (nynorsk),https://suggestqueries.google.com/complete/search?client=firefox&hl=nn&q=
+Google (norsk),https://suggestqueries.google.com/complete/search?client=firefox&hl=no&q=
+Google (Northern Sotho),https://suggestqueries.google.com/complete/search?client=firefox&hl=nso&q=
+Google (Nyanja),https://suggestqueries.google.com/complete/search?client=firefox&hl=ny&q=
+Google (Runyankore),https://suggestqueries.google.com/complete/search?client=firefox&hl=nyn&q=
+Google (Occitan),https://suggestqueries.google.com/complete/search?client=firefox&hl=oc&q=
+Google (Oromoo),https://suggestqueries.google.com/complete/search?client=firefox&hl=om&q=
+Google (ଓଡ଼ିଆ),https://suggestqueries.google.com/complete/search?client=firefox&hl=or&q=
+Google (ਪੰਜਾਬੀ),https://suggestqueries.google.com/complete/search?client=firefox&hl=pa&q=
+Google (Nigerian Pidgin),https://suggestqueries.google.com/complete/search?client=firefox&hl=pcm&q=
+Google (polski),https://suggestqueries.google.com/complete/search?client=firefox&hl=pl&q=
+Google (پښتو),https://suggestqueries.google.com/complete/search?client=firefox&hl=ps&q=
+Google (português (Brasil)),https://suggestqueries.google.com/complete/search?client=firefox&hl=pt-BR&q=
+Google (português (Portugal)),https://suggestqueries.google.com/complete/search?client=firefox&hl=pt-PT&q=
+Google (Runasimi),https://suggestqueries.google.com/complete/search?client=firefox&hl=qu&q=
+Google (rumantsch),https://suggestqueries.google.com/complete/search?client=firefox&hl=rm&q=
+Google (Ikirundi),https://suggestqueries.google.com/complete/search?client=firefox&hl=rn&q=
+Google (română),https://suggestqueries.google.com/complete/search?client=firefox&hl=ro&q=
+Google (русский),https://suggestqueries.google.com/complete/search?client=firefox&hl=ru&q=
+Google (Kinyarwanda),https://suggestqueries.google.com/complete/search?client=firefox&hl=rw&q=
+Google (Sindhi),https://suggestqueries.google.com/complete/search?client=firefox&hl=sd&q=
+Google (සිංහල),https://suggestqueries.google.com/complete/search?client=firefox&hl=si&q=
+Google (slovenčina),https://suggestqueries.google.com/complete/search?client=firefox&hl=sk&q=
+Google (slovenščina),https://suggestqueries.google.com/complete/search?client=firefox&hl=sl&q=
+Google (chiShona),https://suggestqueries.google.com/complete/search?client=firefox&hl=sn&q=
+Google (Soomaali),https://suggestqueries.google.com/complete/search?client=firefox&hl=so&q=
+Google (shqip),https://suggestqueries.google.com/complete/search?client=firefox&hl=sq&q=
+Google (српски),https://suggestqueries.google.com/complete/search?client=firefox&hl=sr&q=
+Google (srpski (latinica)),https://suggestqueries.google.com/complete/search?client=firefox&hl=sr-Latn&q=
+Google (srpski (Crna Gora)),https://suggestqueries.google.com/complete/search?client=firefox&hl=sr-ME&q=
+Google (Southern Sotho),https://suggestqueries.google.com/complete/search?client=firefox&hl=st&q=
+Google (Sundanese),https://suggestqueries.google.com/complete/search?client=firefox&hl=su&q=
+Google (svenska),https://suggestqueries.google.com/complete/search?client=firefox&hl=sv&q=
+Google (Kiswahili),https://suggestqueries.google.com/complete/search?client=firefox&hl=sw&q=
+Google (தமிழ்),https://suggestqueries.google.com/complete/search?client=firefox&hl=ta&q=
+Google (తెలుగు),https://suggestqueries.google.com/complete/search?client=firefox&hl=te&q=
+Google (Tajik),https://suggestqueries.google.com/complete/search?client=firefox&hl=tg&q=
+Google (ไทย),https://suggestqueries.google.com/complete/search?client=firefox&hl=th&q=
+Google (ትግርኛ),https://suggestqueries.google.com/complete/search?client=firefox&hl=ti&q=
+Google (Turkmen),https://suggestqueries.google.com/complete/search?client=firefox&hl=tk&q=
+Google (Filipino),https://suggestqueries.google.com/complete/search?client=firefox&hl=tl&q=
+Google (Klingon),https://suggestqueries.google.com/complete/search?client=firefox&hl=tlh&q=
+Google (Tswana),https://suggestqueries.google.com/complete/search?client=firefox&hl=tn&q=
+Google (lea fakatonga),https://suggestqueries.google.com/complete/search?client=firefox&hl=to&q=
+Google (Türkçe),https://suggestqueries.google.com/complete/search?client=firefox&hl=tr&q=
+Google (Tatar),https://suggestqueries.google.com/complete/search?client=firefox&hl=tt&q=
+Google (Tumbuka),https://suggestqueries.google.com/complete/search?client=firefox&hl=tum&q=
+Google (Twi),https://suggestqueries.google.com/complete/search?client=firefox&hl=tw&q=
+Google (ئۇيغۇرچە),https://suggestqueries.google.com/complete/search?client=firefox&hl=ug&q=
+Google (українська),https://suggestqueries.google.com/complete/search?client=firefox&hl=uk&q=
+Google (اردو),https://suggestqueries.google.com/complete/search?client=firefox&hl=ur&q=
+Google (o‘zbek),https://suggestqueries.google.com/complete/search?client=firefox&hl=uz&q=
+Google (Tiếng Việt),https://suggestqueries.google.com/complete/search?client=firefox&hl=vi&q=
+Google (Wolof),https://suggestqueries.google.com/complete/search?client=firefox&hl=wo&q=
+Google (Xhosa),https://suggestqueries.google.com/complete/search?client=firefox&hl=xh&q=
+Google (ייִדיש),https://suggestqueries.google.com/complete/search?client=firefox&hl=yi&q=
+Google (Èdè Yorùbá),https://suggestqueries.google.com/complete/search?client=firefox&hl=yo&q=
+Google (中文 (简体)),https://suggestqueries.google.com/complete/search?client=firefox&hl=zh-CN&q=
+Google (中文 (繁體)),https://suggestqueries.google.com/complete/search?client=firefox&hl=zh-TW&q=
+Google (isiZulu),https://suggestqueries.google.com/complete/search?client=firefox&hl=zu&q=
+YouTube (Algeria),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=dz&q=
+YouTube (Argentina),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ar&q=
+YouTube (Australia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=au&q=
+YouTube (Austria),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=at&q=
+YouTube (Azerbaijan),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=az&q=
+YouTube (Bahrain),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=bh&q=
+YouTube (Belarus),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=by&q=
+YouTube (Belgium),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=be&q=
+YouTube (Bosnia and Herzegovina),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ba&q=
+YouTube (Brazil),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=pt-br&q=
+YouTube (Bulgaria),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=bg&q=
+YouTube (Canada),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ca&q=
+YouTube (Chile),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=cl&q=
+YouTube (Colombia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=co&q=
+YouTube (Croatia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=hr&q=
+YouTube (Czech Republic),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=cz&q=
+YouTube (Denmark),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=dk&q=
+YouTube (Egypt),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=eg&q=
+YouTube (Estonia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ee&q=
+YouTube (Finland),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=fi&q=
+YouTube (France),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=fr&q=
+YouTube (Georgia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ge&q=
+YouTube (Germany),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=de&q=
+YouTube (Ghana),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=gh&q=
+YouTube (Greece),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=gr&q=
+YouTube (Hong Kong),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=hk&q=
+YouTube (Hungary),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=hu&q=
+YouTube (Iceland),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=is&q=
+YouTube (India),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=in&q=
+YouTube (Indonesia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=id&q=
+YouTube (Iraq),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=iq&q=
+YouTube (Ireland),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ie&q=
+YouTube (Israel),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=il&q=
+YouTube (Italy),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=it&q=
+YouTube (Jamaica),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=jm&q=
+YouTube (Japan),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=jp&q=
+YouTube (Jordan),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=jo&q=
+YouTube (Kazakhstan),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=kz&q=
+YouTube (Kenya),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ke&q=
+YouTube (Kuwait),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=kw&q=
+YouTube (Latvia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=lv&q=
+YouTube (Lebanon),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=lb&q=
+YouTube (Libya),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ly&q=
+YouTube (Lithuania),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=lt&q=
+YouTube (Luxembourg),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=lu&q=
+YouTube (Macedonia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=mk&q=
+YouTube (Malaysia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=my&q=
+YouTube (Mexico),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=mx&q=
+YouTube (Montenegro),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=me&q=
+YouTube (Morocco),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ma&q=
+YouTube (Nepal),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=np&q=
+YouTube (Netherlands),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=nl&q=
+YouTube (New Zealand),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=nz&q=
+YouTube (Nigeria),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ng&q=
+YouTube (Norway),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=no&q=
+YouTube (Oman),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=om&q=
+YouTube (Pakistan),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=pk&q=
+YouTube (Peru),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=pe&q=
+YouTube (Philippines),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ph&q=
+YouTube (Poland),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=pl&q=
+YouTube (Portugal),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=pt-pt&q=
+YouTube (Puerto Rico),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=pr&q=
+YouTube (Qatar),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=qa&q=
+YouTube (Romania),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ro&q=
+YouTube (Russia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ru&q=
+YouTube (Saudi Arabia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=sa&q=
+YouTube (Senegal),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=sn&q=
+YouTube (Serbia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=rs&q=
+YouTube (Singapore),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=sg&q=
+YouTube (Slovakia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=sk&q=
+YouTube (Slovenia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=si&q=
+YouTube (South Africa),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=za&q=
+YouTube (South Korea),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=kr&q=
+YouTube (Spain),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=es&q=
+YouTube (Sri Lanka),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=lk&q=
+YouTube (Sweden),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=se&q=
+YouTube (Switzerland),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ch&q=
+YouTube (Taiwan),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=tw&q=
+YouTube (Tanzania),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=tz&q=
+YouTube (Thailand),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=th&q=
+YouTube (Tunisia),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=tn&q=
+YouTube (Turkey),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=tr&q=
+YouTube (Uganda),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ug&q=
+YouTube (Ukraine),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ua&q=
+YouTube (United Arab Emirates),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ae&q=
+YouTube (United States),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=us&q=
+YouTube (Vietnam),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=vn&q=
+YouTube (Yemen),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=ye&q=
+YouTube (Zimbabwe),https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&hl=zw&q=
+Youtube,http://suggestqueries.google.com/complete/search?callback=?&client=youtube&hl=&q=
+Bing (Abkhazian),http://api.bing.com/osjson.aspx?language=ab&query=
+Bing (Avestan),http://api.bing.com/osjson.aspx?language=ae&query=
+Bing (Afrikaans),http://api.bing.com/osjson.aspx?language=af&query=
+Bing (Akan),http://api.bing.com/osjson.aspx?language=ak&query=
+Bing (Amharic),http://api.bing.com/osjson.aspx?language=am&query=
+Bing (Aragonese),http://api.bing.com/osjson.aspx?language=an&query=
+Bing (Arabic),http://api.bing.com/osjson.aspx?language=ar&query=
+Bing (Assamese),http://api.bing.com/osjson.aspx?language=as&query=
+Bing (Avaric),http://api.bing.com/osjson.aspx?language=av&query=
+Bing (Aymara),http://api.bing.com/osjson.aspx?language=ay&query=
+Bing (Azerbaijani),http://api.bing.com/osjson.aspx?language=az&query=
+Bing (Bashkir),http://api.bing.com/osjson.aspx?language=ba&query=
+Bing (Belarusian),http://api.bing.com/osjson.aspx?language=be&query=
+Bing (Bulgarian),http://api.bing.com/osjson.aspx?language=bg&query=
+Bing (Bihari),http://api.bing.com/osjson.aspx?language=bh&query=
+Bing (Bislama),http://api.bing.com/osjson.aspx?language=bi&query=
+Bing (Bambara),http://api.bing.com/osjson.aspx?language=bm&query=
+Bing (Bengali),http://api.bing.com/osjson.aspx?language=bn&query=
+Bing (Tibetan),http://api.bing.com/osjson.aspx?language=bo&query=
+Bing (Breton),http://api.bing.com/osjson.aspx?language=br&query=
+Bing (Bosnian),http://api.bing.com/osjson.aspx?language=bs&query=
+Bing (Catalan),http://api.bing.com/osjson.aspx?language=ca&query=
+Bing (Chechen),http://api.bing.com/osjson.aspx?language=ce&query=
+Bing (Chamorro),http://api.bing.com/osjson.aspx?language=ch&query=
+Bing (Corsican),http://api.bing.com/osjson.aspx?language=co&query=
+Bing (Cree),http://api.bing.com/osjson.aspx?language=cr&query=
+Bing (Czech),http://api.bing.com/osjson.aspx?language=cs&query=
+Bing (Church Slavic),http://api.bing.com/osjson.aspx?language=cu&query=
+Bing (Chuvash),http://api.bing.com/osjson.aspx?language=cv&query=
+Bing (Welsh),http://api.bing.com/osjson.aspx?language=cy&query=
+Bing (Danish),http://api.bing.com/osjson.aspx?language=da&query=
+Bing (German),http://api.bing.com/osjson.aspx?language=de&query=
+Bing (Divehi),http://api.bing.com/osjson.aspx?language=dv&query=
+Bing (Dzongkha),http://api.bing.com/osjson.aspx?language=dz&query=
+Bing (Ewe),http://api.bing.com/osjson.aspx?language=ee&query=
+Bing (Greek),http://api.bing.com/osjson.aspx?language=el&query=
+Bing (English),http://api.bing.com/osjson.aspx?language=en&query=
+Bing (Esperanto),http://api.bing.com/osjson.aspx?language=eo&query=
+Bing (Spanish),http://api.bing.com/osjson.aspx?language=es&query=
+Bing (Estonian),http://api.bing.com/osjson.aspx?language=et&query=
+Bing (Basque),http://api.bing.com/osjson.aspx?language=eu&query=
+Bing (Persian),http://api.bing.com/osjson.aspx?language=fa&query=
+Bing (Fulah),http://api.bing.com/osjson.aspx?language=ff&query=
+Bing (Finnish),http://api.bing.com/osjson.aspx?language=fi&query=
+Bing (Fijian),http://api.bing.com/osjson.aspx?language=fj&query=
+Bing (Faroese),http://api.bing.com/osjson.aspx?language=fo&query=
+Bing (French),http://api.bing.com/osjson.aspx?language=fr&query=
+Bing (Western Frisian),http://api.bing.com/osjson.aspx?language=fy&query=
+Bing (Irish),http://api.bing.com/osjson.aspx?language=ga&query=
+Bing (Scottish Gaelic),http://api.bing.com/osjson.aspx?language=gd&query=
+Bing (Galician),http://api.bing.com/osjson.aspx?language=gl&query=
+Bing (Guaraní),http://api.bing.com/osjson.aspx?language=gn&query=
+Bing (Gujarati),http://api.bing.com/osjson.aspx?language=gu&query=
+Bing (Manx),http://api.bing.com/osjson.aspx?language=gv&query=
+Bing (Hausa),http://api.bing.com/osjson.aspx?language=ha&query=
+Bing (Hebrew),http://api.bing.com/osjson.aspx?language=he&query=
+Bing (Hindi),http://api.bing.com/osjson.aspx?language=hi&query=
+Bing (Hiri Motu),http://api.bing.com/osjson.aspx?language=ho&query=
+Bing (Croatian),http://api.bing.com/osjson.aspx?language=hr&query=
+Bing (Haitian),http://api.bing.com/osjson.aspx?language=ht&query=
+Bing (Hungarian),http://api.bing.com/osjson.aspx?language=hu&query=
+Bing (Armenian),http://api.bing.com/osjson.aspx?language=hy&query=
+Bing (Herero),http://api.bing.com/osjson.aspx?language=hz&query=
+Bing (Interlingua (International Auxiliary Language Association)),http://api.bing.com/osjson.aspx?language=ia&query=
+Bing (Indonesian),http://api.bing.com/osjson.aspx?language=id&query=
+Bing (Interlingue),http://api.bing.com/osjson.aspx?language=ie&query=
+Bing (Igbo),http://api.bing.com/osjson.aspx?language=ig&query=
+Bing (Sichuan Yi),http://api.bing.com/osjson.aspx?language=ii&query=
+Bing (Inupiaq),http://api.bing.com/osjson.aspx?language=ik&query=
+Bing (Ido),http://api.bing.com/osjson.aspx?language=io&query=
+Bing (Icelandic),http://api.bing.com/osjson.aspx?language=is&query=
+Bing (Italian),http://api.bing.com/osjson.aspx?language=it&query=
+Bing (Inuktitut),http://api.bing.com/osjson.aspx?language=iu&query=
+Bing (Japanese),http://api.bing.com/osjson.aspx?language=ja&query=
+Bing (Javanese),http://api.bing.com/osjson.aspx?language=jv&query=
+Bing (Georgian),http://api.bing.com/osjson.aspx?language=ka&query=
+Bing (Kongo),http://api.bing.com/osjson.aspx?language=kg&query=
+Bing (Kikuyu),http://api.bing.com/osjson.aspx?language=ki&query=
+Bing (Kwanyama),http://api.bing.com/osjson.aspx?language=kj&query=
+Bing (Kazakh),http://api.bing.com/osjson.aspx?language=kk&query=
+Bing (Kalaallisut),http://api.bing.com/osjson.aspx?language=kl&query=
+Bing (Khmer),http://api.bing.com/osjson.aspx?language=km&query=
+Bing (Kannada),http://api.bing.com/osjson.aspx?language=kn&query=
+Bing (Korean),http://api.bing.com/osjson.aspx?language=ko&query=
+Bing (Kanuri),http://api.bing.com/osjson.aspx?language=kr&query=
+Bing (Kashmiri),http://api.bing.com/osjson.aspx?language=ks&query=
+Bing (Kurdish),http://api.bing.com/osjson.aspx?language=ku&query=
+Bing (Komi),http://api.bing.com/osjson.aspx?language=kv&query=
+Bing (Cornish),http://api.bing.com/osjson.aspx?language=kw&query=
+Bing (Kirghiz),http://api.bing.com/osjson.aspx?language=ky&query=
+Bing (Latin),http://api.bing.com/osjson.aspx?language=la&query=
+Bing (Luxembourgish),http://api.bing.com/osjson.aspx?language=lb&query=
+Bing (Ganda),http://api.bing.com/osjson.aspx?language=lg&query=
+Bing (Limburgish),http://api.bing.com/osjson.aspx?language=li&query=
+Bing (Lingala),http://api.bing.com/osjson.aspx?language=ln&query=
+Bing (Lao),http://api.bing.com/osjson.aspx?language=lo&query=
+Bing (Lithuanian),http://api.bing.com/osjson.aspx?language=lt&query=
+Bing (Luba-Katanga),http://api.bing.com/osjson.aspx?language=lu&query=
+Bing (Latvian),http://api.bing.com/osjson.aspx?language=lv&query=
+Bing (Malagasy),http://api.bing.com/osjson.aspx?language=mg&query=
+Bing (Marshallese),http://api.bing.com/osjson.aspx?language=mh&query=
+Bing (Māori),http://api.bing.com/osjson.aspx?language=mi&query=
+Bing (Macedonian),http://api.bing.com/osjson.aspx?language=mk&query=
+Bing (Malayalam),http://api.bing.com/osjson.aspx?language=ml&query=
+Bing (Mongolian),http://api.bing.com/osjson.aspx?language=mn&query=
+Bing (Moldavian),http://api.bing.com/osjson.aspx?language=mo&query=
+Bing (Marathi),http://api.bing.com/osjson.aspx?language=mr&query=
+Bing (Malay),http://api.bing.com/osjson.aspx?language=ms&query=
+Bing (Maltese),http://api.bing.com/osjson.aspx?language=mt&query=
+Bing (Burmese),http://api.bing.com/osjson.aspx?language=my&query=
+Bing (Nauru),http://api.bing.com/osjson.aspx?language=na&query=
+Bing (Norwegian Bokmål),http://api.bing.com/osjson.aspx?language=nb&query=
+Bing (North Ndebele),http://api.bing.com/osjson.aspx?language=nd&query=
+Bing (Nepali),http://api.bing.com/osjson.aspx?language=ne&query=
+Bing (Ndonga),http://api.bing.com/osjson.aspx?language=ng&query=
+Bing (Dutch),http://api.bing.com/osjson.aspx?language=nl&query=
+Bing (Norwegian Nynorsk),http://api.bing.com/osjson.aspx?language=nn&query=
+Bing (Norwegian),http://api.bing.com/osjson.aspx?language=no&query=
+Bing (South Ndebele),http://api.bing.com/osjson.aspx?language=nr&query=
+Bing (Navajo),http://api.bing.com/osjson.aspx?language=nv&query=
+Bing (Chichewa),http://api.bing.com/osjson.aspx?language=ny&query=
+Bing (Occitan),http://api.bing.com/osjson.aspx?language=oc&query=
+Bing (Ojibwa),http://api.bing.com/osjson.aspx?language=oj&query=
+Bing (Oromo),http://api.bing.com/osjson.aspx?language=om&query=
+Bing (Oriya),http://api.bing.com/osjson.aspx?language=or&query=
+Bing (Ossetian),http://api.bing.com/osjson.aspx?language=os&query=
+Bing (Panjabi),http://api.bing.com/osjson.aspx?language=pa&query=
+Bing (Pāli),http://api.bing.com/osjson.aspx?language=pi&query=
+Bing (Polish),http://api.bing.com/osjson.aspx?language=pl&query=
+Bing (Pashto),http://api.bing.com/osjson.aspx?language=ps&query=
+Bing (Portuguese),http://api.bing.com/osjson.aspx?language=pt&query=
+Bing (Quechua),http://api.bing.com/osjson.aspx?language=qu&query=
+Bing (Raeto-Romance),http://api.bing.com/osjson.aspx?language=rm&query=
+Bing (Kirundi),http://api.bing.com/osjson.aspx?language=rn&query=
+Bing (Romanian),http://api.bing.com/osjson.aspx?language=ro&query=
+Bing (Russian),http://api.bing.com/osjson.aspx?language=ru&query=
+Bing (Kinyarwanda),http://api.bing.com/osjson.aspx?language=rw&query=
+Bing (Sanskrit),http://api.bing.com/osjson.aspx?language=sa&query=
+Bing (Sardinian),http://api.bing.com/osjson.aspx?language=sc&query=
+Bing (Sindhi),http://api.bing.com/osjson.aspx?language=sd&query=
+Bing (Northern Sami),http://api.bing.com/osjson.aspx?language=se&query=
+Bing (Sango),http://api.bing.com/osjson.aspx?language=sg&query=
+Bing (Serbo-Croatian),http://api.bing.com/osjson.aspx?language=sh&query=
+Bing (Sinhala),http://api.bing.com/osjson.aspx?language=si&query=
+Bing (Slovak),http://api.bing.com/osjson.aspx?language=sk&query=
+Bing (Slovenian),http://api.bing.com/osjson.aspx?language=sl&query=
+Bing (Samoan),http://api.bing.com/osjson.aspx?language=sm&query=
+Bing (Shona),http://api.bing.com/osjson.aspx?language=sn&query=
+Bing (Somali),http://api.bing.com/osjson.aspx?language=so&query=
+Bing (Albanian),http://api.bing.com/osjson.aspx?language=sq&query=
+Bing (Serbian),http://api.bing.com/osjson.aspx?language=sr&query=
+Bing (Swati),http://api.bing.com/osjson.aspx?language=ss&query=
+Bing (Southern Sotho),http://api.bing.com/osjson.aspx?language=st&query=
+Bing (Sundanese),http://api.bing.com/osjson.aspx?language=su&query=
+Bing (Swedish),http://api.bing.com/osjson.aspx?language=sv&query=
+Bing (Swahili),http://api.bing.com/osjson.aspx?language=sw&query=
+Bing (Tamil),http://api.bing.com/osjson.aspx?language=ta&query=
+Bing (Telugu),http://api.bing.com/osjson.aspx?language=te&query=
+Bing (Tajik),http://api.bing.com/osjson.aspx?language=tg&query=
+Bing (Thai),http://api.bing.com/osjson.aspx?language=th&query=
+Bing (Tigrinya),http://api.bing.com/osjson.aspx?language=ti&query=
+Bing (Turkmen),http://api.bing.com/osjson.aspx?language=tk&query=
+Bing (Tagalog),http://api.bing.com/osjson.aspx?language=tl&query=
+Bing (Tswana),http://api.bing.com/osjson.aspx?language=tn&query=
+Bing (Tonga),http://api.bing.com/osjson.aspx?language=to&query=
+Bing (Turkish),http://api.bing.com/osjson.aspx?language=tr&query=
+Bing (Tsonga),http://api.bing.com/osjson.aspx?language=ts&query=
+Bing (Tatar),http://api.bing.com/osjson.aspx?language=tt&query=
+Bing (Twi),http://api.bing.com/osjson.aspx?language=tw&query=
+Bing (Tahitian),http://api.bing.com/osjson.aspx?language=ty&query=
+Bing (Uighur),http://api.bing.com/osjson.aspx?language=ug&query=
+Bing (Ukrainian),http://api.bing.com/osjson.aspx?language=uk&query=
+Bing (Urdu),http://api.bing.com/osjson.aspx?language=ur&query=
+Bing (Uzbek),http://api.bing.com/osjson.aspx?language=uz&query=
+Bing (Venda),http://api.bing.com/osjson.aspx?language=ve&query=
+Bing (Vietnamese),http://api.bing.com/osjson.aspx?language=vi&query=
+Bing (Volapük),http://api.bing.com/osjson.aspx?language=vo&query=
+Bing (Walloon),http://api.bing.com/osjson.aspx?language=wa&query=
+Bing (Wolof),http://api.bing.com/osjson.aspx?language=wo&query=
+Bing (Xhosa),http://api.bing.com/osjson.aspx?language=xh&query=
+Bing (Yiddish),http://api.bing.com/osjson.aspx?language=yi&query=
+Bing (Yoruba),http://api.bing.com/osjson.aspx?language=yo&query=
+Bing (Zhuang),http://api.bing.com/osjson.aspx?language=za&query=
+Bing (Chinese),http://api.bing.com/osjson.aspx?language=zh&query=
+Bing (Zulu),http://api.bing.com/osjson.aspx?language=zu&query=
+Amazon,https://completion.amazon.com/search/complete?mkt=1&search-alias=aps&q=
+Wikipedia (English),https://en.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Svenska),https://sv.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Sinugboanong Binisaya),https://ceb.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Deutsch),https://de.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Nederlands),https://nl.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Français),https://fr.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Русский),https://ru.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Italiano),https://it.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Español),https://es.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Winaray),https://war.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Polski),https://pl.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Tiếng Việt),https://vi.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (日本語),https://ja.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Português),https://pt.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (中文),https://zh.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Українська),https://uk.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Català),https://ca.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (فارسی),https://fa.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Norsk (Bokmål)),https://no.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (العربية),https://ar.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Srpskohrvatski / Српскохрватски),https://sh.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Suomi),https://fi.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Magyar),https://hu.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Bahasa Indonesia),https://id.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Română),https://ro.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Čeština),https://cs.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (한국어),https://ko.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Српски / Srpski),https://sr.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Türkçe),https://tr.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Bahasa Melayu),https://ms.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Euskara),https://eu.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Esperanto),https://eo.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Български),https://bg.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Minangkabau),https://min.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Dansk),https://da.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Қазақша),https://kk.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Slovenčina),https://sk.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Հայերեն),https://hy.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Bân-lâm-gú),https://zh-min-nan.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (עברית),https://he.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Lietuvių),https://lt.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Hrvatski),https://hr.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Нохчийн),https://ce.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Slovenščina),https://sl.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Eesti),https://et.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Galego),https://gl.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Nynorsk),https://nn.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (O‘zbek),https://uz.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Latina),https://la.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Ελληνικά),https://el.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Беларуская),https://be.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Simple English),https://simple.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Volapük),https://vo.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (हिन्दी),https://hi.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (ไทย),https://th.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Azərbaycanca),https://az.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (ქართული),https://ka.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (اردو),https://ur.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (தமிழ்),https://ta.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Cymraeg),https://cy.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Македонски),https://mk.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Occitan),https://oc.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Malagasy),https://mg.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Latviešu),https://lv.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Bosanski),https://bs.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (नेपाल भाषा),https://new.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Tatarça / Татарча),https://tt.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Тоҷикӣ),https://tg.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (తెలుగు),https://te.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Tagalog),https://tl.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Piemontèis),https://pms.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Shqip),https://sq.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Brezhoneg),https://br.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Кыргызча),https://ky.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Беларуская (тарашкевіца)),https://be-tarask.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Krèyol ayisyen),https://ht.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Basa Jawa),https://jv.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (粵語),https://zh-yue.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Asturianu),https://ast.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Lëtzebuergesch),https://lb.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (മലയാളം),https://ml.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (বাংলা),https://bn.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (मराठी),https://mr.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Afrikaans),https://af.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (شاہ مکھی پنجابی (Shāhmukhī Pañjābī)),https://pnb.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Scots),https://sco.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Íslenska),https://is.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Gaeilge),https://ga.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Башҡорт),https://ba.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Чăваш),https://cv.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Frysk),https://fy.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Kiswahili),https://sw.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Lumbaart),https://lmo.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (မြန်မာဘာသာ),https://my.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Aragonés),https://an.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Yorùbá),https://yo.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (नेपाली),https://ne.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Ido),https://io.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (ગુજરાતી),https://gu.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Plattdüütsch),https://nds.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Sicilianu),https://scn.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (ইমার ঠার/বিষ্ণুপ্রিয়া মণিপুরী),https://bpy.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (ਪੰਜਾਬੀ),https://pa.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Kurdî / كوردی),https://ku.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Alemannisch),https://als.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Boarisch),https://bar.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (ಕನ್ನಡ),https://kn.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Runa Simi),https://qu.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Interlingua),https://ia.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Basa Sunda),https://su.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Soranî / کوردی),https://ckb.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Монгол),https://mn.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (مصرى (Maṣri)),https://arz.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Žemaitėška),https://bat-smg.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Nnapulitano),https://nap.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Walon),https://wa.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Gàidhlig),https://gd.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Basa Ugi),https://bug.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (ייִדיש),https://yi.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (አማርኛ),https://am.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Basa Banyumasan),https://map-bms.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (සිංහල),https://si.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Føroyskt),https://fo.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (مَزِروني),https://mzn.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (تۆرکجه),https://azb.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (ଓଡ଼ିଆ),https://or.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Limburgs),https://li.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Саха тыла (Saxa Tyla)),https://sah.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Hornjoserbsce),https://hsb.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Vèneto),https://vec.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Иронау),https://os.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (संस्कृतम्),https://sa.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Кырык Мары (Kyryk Mary)),https://mrj.wikipedia.org/w/api.php?action=opensearch&search=
+Wikipedia (Nāhuatl),https://nah.wikipedia.org/w/api.php?action=opensearch&search=                    
+DuckDuckGo,https://duckduckgo.com/ac/?type=list&kl=us-en&q=
+Ecosia,https://ac.ecosia.org/ac/?type=list&kl=us-en&q=
+Daum.net,https://suggest.search.daum.net/sushi/opensearch/pc?DA=JU6&q=
+MailRu,https://suggests.go.mail.ru/chrome?q=
+Naver.com,https://ac.search.naver.com/nx/ac?of=os&q=
+Qwant,https://api.qwant.com/api/suggest/?client=opensearch&q=
+Seznam.cz,https://suggest.seznam.cz/fulltext_ff?phrase=
+Seznam.sk,https://suggest.seznam.sk/fulltext_ff?phrase=
+Sogou.com,https://sugg.sogou.com/sugg/ajaj_json.jsp?type=addrbar&from=google&key=
+Yahoo.com,https://search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas_sfp&command=
+Yahoo! Argentina,https://ar.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+AT.Yahoo.com,https://at.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Brasil,https://br.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Canada,https://ca.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Schweiz,https://ch.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Chile,https://cl.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Colombia,https://co.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! spain,https://es.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! France,https://fr.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Hong Kong,https://hk.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Indonsesia,https://in.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Mexico,https://mx.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Nederland,https://nl.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! New Zealand,https://nz.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Peru,https://pe.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Philippines,https://ph.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Singapure,https://sg.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! TH,https://th.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! TW,https://tw.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Venezuela,https://ve.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Vietnam,https://vn.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yahoo! Quebec,https://qc.search.yahoo.com/sugg/chrome?output=fxjson&appid=crmas&command=
+Yandex.by,https://suggest.yandex.by/suggest-ff.cgi?part
+Yandex.com,https://suggest.yandex.com/suggest-ff.cgi?part
+Yandex.kz,https://suggest.yandex.com/suggest-ff.cgi?part
+Yandex.ru,https://suggest.yandex.ru/suggest-ff.cgi?part
+Yandex.tr,https://suggest.yandex.com.tr/suggest-ff.cgi?part
+Yandex.ua,https://suggest.yandex.com.ua/suggest-ff.cgi?part
+Yandex.ua,https://suggest.yandex.com.ua/suggest-ff.cgi?part
+Atlas.cz,http://radce.centrum.cz/?of=1&q=
+GMX Search,https://suggestplugin.gmx.com/s?brand=gmxcom&sp=b&q=
+GMX Suche,https://suggestplugin.gmx.at/s?brand=gmxat&sp=b&q=
+GMX Suche DE,https://suggestplugin.gmx.net/s?brand=gmx&sp=b&q=
+GMX Suche ES,https://suggestplugin.gmx.es/s?brand=gmxes&sp=b&q=
+GMX Suche FR,https://suggestplugin.gmx.fr/s?brand=gmxfr&sp=b&q=
+GMX Suche CO UK,https://suggestplugin.gmx.co.uk/s?brand=gmxcouk&sp=b&q=
+Goo,https://search.goo.ne.jp/sgt.jsp?CL=plugin&FM=json&MT=
+PrivacyWall,https://search.privacywall.org/suggest.php?q=
+Rambler,https://nova.rambler.ru/suggest?v=3&query=
+SAPO,http://pesquisa.sapo.pt/livesapo?q=
+TUT.BY,https://suggest.yandex.ru/suggest-ff.cgi?part=
+TUT.BY,https://suggest.yandex.ru/suggest-ff.cgi?part=
+eBay Australia,https://autosug.ebay.com/autosug?fmt=osr&sId=15&kwd=
+eBay Belgium,https://autosug.ebay.com/autosug?fmt=osr&sId=23&kwd=
+eBay Nederland,https://autosug.ebay.com/autosug?fmt=osr&sId=123&kwd=
+eBay Canada Eng,https://autosug.ebay.com/autosug?fmt=osr&sId=2&kwd=
+eBay Canada Fr,https://autosug.ebay.com/autosug?fmt=osr&sId=21&kwd=
+eBay Deutschland,https://autosug.ebay.com/autosug?fmt=osr&sId=77&kwd=
+eBay Spain,https://autosug.ebay.com/autosug?fmt=osr&sId=186&kwd=
+eBay France,https://autosug.ebay.com/autosug?fmt=osr&sId=71&kwd=
+eBay Hong Kong,https://autosug.ebay.com/autosug?fmt=osr&sId=201&kwd=
+eBay India,https://autosug.ebay.com/autosug?fmt=osr&sId=203&kwd=
+eBay Ireland,https://autosug.ebay.com/autosug?fmt=osr&sId=205&kwd=
+eBay Italia,https://autosug.ebay.com/autosug?fmt=osr&sId=101&kwd=
+eBay Malaysia,https://autosug.ebay.com/autosug?fmt=osr&sId=207&kwd=
+eBay Nederlands,https://autosug.ebay.com/autosug?fmt=osr&sId=146&kwd=
+eBay Austria,https://autosug.ebay.com/autosug?fmt=osr&sId=16&kwd=
+eBay Philippines,https://autosug.ebay.com/autosug?fmt=osr&sId=211&kwd=
+eBay Polska,https://autosug.ebay.com/autosug?fmt=osr&sId=212&kwd=
+eBay Singapore,https://autosug.ebay.com/autosug?fmt=osr&sId=216&kwd=
+eBay Suisse,https://autosug.ebay.com/autosug?fmt=osr&sId=193&kwd=
+eBay United Kingdom,https://autosug.ebay.com/autosug?fmt=osr&sId=3&kwd=
+eBay United States,https://autosug.ebay.com/autosug?fmt=osr&sId=0&kwd=
+Amazon United States,https://completion.amazon.com/search/complete?mkt=1&method=completion&search-alias=aps&client=alfred-searchio&q=
+Amazon United Kingdom,https://completion.amazon.co.uk/search/complete?mkt=3&method=completion&search-alias=aps&client=alfred-searchio&q=
+Amazon Canada,https://completion.amazon.ca/search/complete?mkt=7&method=completion&search-alias=aps&client=alfred-searchio&q=
+Amazon Deutschland,https://completion.amazon.de/search/complete?mkt=4&method=completion&search-alias=aps&client=alfred-searchio&q=
+Amazon France,https://completion.amazon.fr/search/complete?mkt=5&method=completion&search-alias=aps&client=alfred-searchio&q=
+Amazon Spain,https://completion.amazon.es/search/complete?mkt=44551&method=completion&search-alias=aps&client=alfred-searchio&q=
+Amazon Brasil,https://completion.amazon.com.br/search/complete?mkt=526970&method=completion&search-alias=aps&client=alfred-searchio&q=

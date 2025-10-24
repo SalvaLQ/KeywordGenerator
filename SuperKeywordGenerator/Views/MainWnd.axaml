@@ -1,0 +1,89 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"		
+		xmlns:wpf="clr-namespace:Material.Styles.Assists;assembly=Material.Styles"
+		xmlns:styles="clr-namespace:Material.Styles;assembly=Material.Styles"
+		xmlns:avalonia="clr-namespace:Material.Icons.Avalonia;assembly=Material.Icons.Avalonia"
+         xmlns:controls="clr-namespace:Material.Styles.Controls;assembly=Material.Styles"
+        xmlns:p="clr-namespace:SuperKeywordGenerator.LocalizationResources;assembly=SuperKeywordGenerator"
+        mc:Ignorable="d"  d:DesignWidth="1000" d:DesignHeight="700" Width="1000" Height="700"
+        x:Class="SuperKeywordGenerator.Views.MainWnd" WindowStartupLocation="CenterScreen" Classes="MainWindow"
+        Title="{x:Static p:MainRes.WindowTitle}"     Icon="avares://SuperKeywordGenerator/Assets/Icons/document-svgrepo-com.ico">
+	<DockPanel  >
+    <controls:ColorZone  VerticalAlignment="Top" HorizontalAlignment="Stretch" DockPanel.Dock="Top" Height="40" Mode="PrimaryMid" ZIndex="1">
+
+			<Grid ColumnDefinitions="Auto,*">
+				<TextBlock Margin="10,0,0,0" Grid.Column="0" Text="{x:Static p:MainRes.WindowTitle}" Classes="Headline6" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+			<Menu Grid.Column="1"  Height="32" Padding="0" Margin="0,0,10,0" HorizontalAlignment="Right">
+				<MenuItem Height="32" Width="32" Header="{avalonia:MaterialIconExt Kind=HamburgerMenu, Size=24}">					
+					<MenuItem  Header="{x:Static p:MainRes.mnSettings}" Click="mnSettings_Click" Padding="0"  >					 
+						<MenuItem.Icon>
+							<avalonia:MaterialIcon Kind="Settings" Width="24" Height="24" />
+						</MenuItem.Icon>
+					</MenuItem>
+					<MenuItem Header="{x:Static p:MainRes.mnAbout}" Click="mnAbout_Click"   >					 
+						<MenuItem.Icon>
+							<avalonia:MaterialIcon Kind="Information" Foreground="Blue"  Width="24" Height="24" />
+						</MenuItem.Icon>
+					</MenuItem>
+					<Separator></Separator>
+					<MenuItem Header="{x:Static p:MainRes.mnExit}" Click="mnExit_Click"   >
+						<MenuItem.Icon>
+							<avalonia:MaterialIcon Kind="ExitToApp"  Width="24" Height="24" />
+						</MenuItem.Icon>
+					</MenuItem>
+				</MenuItem>
+			</Menu>
+			</Grid>
+		</controls:ColorZone>		 
+		<Grid RowDefinitions="Auto,Auto,*,Auto,Auto" Margin="10" >			 
+			<StackPanel Grid.Row="0" Orientation="Horizontal"   >
+				<TextBox   Width="700"    wpf:TextFieldAssist.Label="{x:Static p:MainRes.addBaseKeys}"  UseFloatingWatermark="True" Classes="Outline"
+						  MaxHeight="80"  TextWrapping="Wrap"
+						  ScrollViewer.VerticalScrollBarVisibility="Auto"  Text="{Binding PlainBaseKeywords}"   />
+				<Button Margin="5,0,0,0" Width="80"  Click="btLaunch_Click" IsEnabled="{Binding LaunchEnabled}"    >
+					<StackPanel >
+						<Image Width="20" Height="20" Source="avares://SuperKeywordGenerator/Assets/Icons/play-svgrepo-com.png"></Image>
+						<TextBlock Margin="0,2,0,0" Text="{x:Static p:MainRes.Launch}"/>
+					</StackPanel>
+				</Button>
+				<Button Margin="5,0,0,0"  Width="80"   Click="btStop_Click" IsEnabled="{Binding StopEnabled}"   >
+					<StackPanel>
+						<Image Width="20" Height="20" Source="avares://SuperKeywordGenerator/Assets/Icons/stop-svgrepo-com.png"></Image>
+						<TextBlock Margin="0,2,0,0" Text="{x:Static p:MainRes.Stop}"/>
+					</StackPanel>
+				</Button>
+			</StackPanel>
+			<ProgressBar Grid.Row="1" Margin="0,0,0,10" Height="8" IsIndeterminate="{Binding StopEnabled}"   IsEnabled="{Binding StopEnabled}" IsVisible="{Binding StopEnabled}" />
+			<DataGrid Grid.Row="2" BorderThickness="2" CanUserResizeColumns="True" CanUserSortColumns="True"  ItemsSource="{Binding GeneratedKeywords}"
+						 AutoGenerateColumns="False" IsReadOnly="True"  >
+				<DataGrid.Columns>					
+					<DataGridTextColumn Header="{x:Static p:MainRes.HeadKeyword}"   Binding="{Binding}" Width="*"/>					 
+				</DataGrid.Columns>
+			</DataGrid>
+      <controls:Card Grid.Row="3"  Margin="0,10,0,0"   >
+				<StackPanel Orientation="Horizontal" Spacing="5">
+					<TextBlock Classes="ButtonText"   Text="{x:Static p:MainRes.TotalKeywords}"/>
+					<TextBlock Classes="ButtonText"  Text="{Binding TotalKeywords}"/>					 
+				</StackPanel>
+			</controls:Card>		
+			<StackPanel Grid.Row="4" Margin="0,10,0,0"  Spacing="5"    Orientation="Horizontal" >
+				<Button Classes="Outline Dark" Click="btExport_Click" >
+					<StackPanel Orientation="Horizontal" Spacing="5">
+						<Image Width="20" Height="20"    Source="avares://SuperKeywordGenerator/Assets/Icons/download-svgrepo-com.png"></Image>
+						<TextBlock  Classes="ButtonText" Padding="0,4,0,0" Text="{x:Static p:MainRes.Export}"/>
+					</StackPanel>
+				</Button>
+				<Button Classes="Outline Dark" Click="btClear_Click" >
+					<StackPanel Orientation="Horizontal" Spacing="5">
+						<Image Width="20" Height="20"    Source="avares://SuperKeywordGenerator/Assets/Icons/retweet-svgrepo-com.png"></Image>
+						<TextBlock  Classes="ButtonText" Padding="0,4,0,0" Text="{x:Static p:MainRes.Clear}"/>
+					</StackPanel>
+				</Button>
+				 
+			</StackPanel>
+		
+  </Grid>
+	</DockPanel>
+</Window>
